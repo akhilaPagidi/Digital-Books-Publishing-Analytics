@@ -56,6 +56,19 @@ The dataset contains approximately 600 book records collected from Goodreads.
 5. **Data Visualization:** Created charts to communicate findings and identify trends.
 6. **Statistical Analysis:** Used correlation analysis and hypothesis testing to explore relationships and evaluate a claim about the mean book rating.
 
+   
+##  Insights
+
+1. Fiction is the most common genre in the dataset, followed by other popular categories such as Fantasy and Classics. This shows that the selected Goodreads books are largely concentrated in popular literary and fictional genres.
+2. Paperback is the most common book format in the dataset, followed by Hardcover and Mass Market Paperback. Kindle Edition and ebook formats are less common, while Board book appears only rarely. This shows that physical book formats, especially Paperback, dominate the selected Goodreads books.
+3. 2000 decade records highest books published.
+4. List Score and Total Votes have a perfect positive correlation (1.00), meaning they move together in this dataset.
+
+
+
+
+
+
 
 
 
